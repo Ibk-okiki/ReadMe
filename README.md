@@ -43,7 +43,7 @@ Django, TypeScript, TensorFlow
 ## Get in Touch 📬
 
 - **[Personal Website / Blog]**(your_website_or_blog_link)
-- **[LinkedIn]**(your_linkedin_profile_link)
-- **[Twitter]**(your_twitter_profile_link)
+- **[LinkedIn]**(https://linkedin.com/in/ibukunoluwa-adelokiki-a60629284?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app )
+- **[Twitter]**(https://x.com/Ibukun_okiki?t=S_eJE6INw-Myrksn2F5eXQ&s=09)
 
 
